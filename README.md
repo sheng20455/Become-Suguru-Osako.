@@ -1,5 +1,5 @@
 # 模块截图
-![图片](Screenshot_2026-09-06-19-22-23-217_com.android.browser-edit.jpg)
+![图片](Screenshot_2026-09-06-18-51-48-406_com.tencent.mm-edit.jpg)
 ## ROOT模块
 这是一个简单的 Magisk 空壳模块
 
