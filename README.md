@@ -1,5 +1,4 @@
 # ROOT模块
-![模块截图](Screenshot_2026-09-06-18-51-48-406_com.tencent.mm-editing.jpg)
 这是一个简单的 Magisk 空壳模块
 
 ## 功能
