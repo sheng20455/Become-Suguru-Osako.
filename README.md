@@ -10,7 +10,7 @@
 *   Magisk，kerneISU，APatch，以及分支
 
 ## 安装方法
-1.  下载本仓库的 [Release](https://github.com/sheng20455/BecomeSuguruOsako./releases) 压缩包。
+1.  下载本仓库的[Release](https://github.com/sheng20455/Become-Suguru-Osako./releases) 压缩包。
 2.  在 Magisk 管理器中从本地安装。
 3.  重启手机。
 
